@@ -1,0 +1,8 @@
+products\StandardAutoTest.class
+products\AutomobileTest.class
+products\BoatTest.class
+CalculatorApp\CalculatorTest.class
+products\ElectronicAutoTest.class
+products\DieselAutoTest.class
+products\VehicleTest.class
+products\SemiTruckTest.class
